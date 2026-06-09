@@ -1,2 +1,2 @@
 print("Bye bye")
-print("lion sin escanor")
+print("be aware of werewolfs")
