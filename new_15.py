@@ -1,3 +1,4 @@
+
 import streamlit as st
 import requests
 import pickle
@@ -49,3 +50,6 @@ if st.button("Recommendations: ", width="stretch"):
             
 
 
+
+print("Bye bye")
+print("lion sin escanor")
